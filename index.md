@@ -3,7 +3,9 @@ layout: page
 title: ""
 ---
 
-I am a 2nd-year Ph.D. student in the [ECE Department, Swanson School of Engineering](https://www.engineering.pitt.edu/ece) at the University of Pittsburgh. I am currently working with Prof. Liang Zhan. I received a bachelor's degree in engineering from the ECE department at the University of Electronic Science and Technology of China(UESTC). Before my Ph.D. studies, I was blessed to work with Prof. Yang Yang at UESTC.
+Howdy Ho! I am a 2nd-year Ph.D. student in the [ECE Department, Swanson School of Engineering](https://www.engineering.pitt.edu/ece) at the University of Pittsburgh. I am currently working with Prof. Liang Zhan. I received a bachelor's degree in engineering from the ECE department at the University of Electronic Science and Technology of China(UESTC). Before my Ph.D. studies, I was blessed to work with Prof. Yang Yang at UESTC.
+
+My work mainly revolves around information retrieval and computer vision by designing attention-based frameworks in single-modal/multi-modal scenarios, as well as meta-learning. I am also interested in exploring the meaning of attention through explainable AI methods.
 
 ### Selected Publications
 3D Bi-Directional Transformer UNet for Medical Image Segmentation. **Xiyao Fu**, Zhexian Sun, Haoteng Tang, Hansong Gao, Eric Zou, Heng Huang, Yong Wang, Liang Zhan. Frontiers in Bid Data (to appear), 2022.
