@@ -17,7 +17,7 @@ minimal: false             # use a dark header
 
 navigation:                # accepts {file, title, url, icon, sidebaricon}
   - {file: "/cv.pdf", title: "CV"}
-  - {file: "Pub.md", title: "Pub", url: "https://xiyaofu.github.io/index.md#Slected Publications"}
+  - {file: "Pub.md", title: "Pub", url: "https://xiyaofu.github.io/index.md#Selected Publications"}
   - {file: "misc.md", title: "Misc"}
 
 external:                  # shows a footer with social links - for available icons see fontawesome.com/icons
